@@ -19,7 +19,7 @@
     "canvas-prebuilt": "^1.6.0",
     "chalk": "^2.3.0",
     "chrome-launcher": "^0.8.1",
-    "chrome-remote-interface": "^0.25.2",
+    "chrome-remote-interface": "^0.28.1",
     "cloudinary": "^1.9.1",
     "content-type": "^1.0.3",
     "debug": "^3.1.0",
